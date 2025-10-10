@@ -2,9 +2,9 @@
 Implementation Validation for CLID and RankMe Metrics
 
 This script provides validation that our implementations strictly follow 
-the original papers' methodologies and can be used as evidence for correctness.
+The original papers' methodologies can be used as evidence for correctness.
 
-Author: [Your Name]
+Author: Yaling Gan
 Date: October 10, 2025
 """
 
@@ -206,4 +206,5 @@ if __name__ == "__main__":
         'status': 'PASSED'
     }
     
+
     print(f"\n💾 Validation Summary: {validation_summary}")
