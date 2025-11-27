@@ -90,6 +90,4 @@ By computing both internal scores and linear probing accuracy across datasets an
 
 ---
 
-## Citation
 
-If you use parts of this repository or analysis, please consider citing this work or the thesis associated with it.
